@@ -1,0 +1,20 @@
+# Ignore all node_modules anywhere
+node_modules/
+**/node_modules/
+
+# Environment files
+.env
+**/.env
+
+# Logs
+*.log
+
+# Build outputs
+dist/
+build/
+**/dist/
+**/build/
+
+# OS / Editor
+.DS_Store
+.vscode/
